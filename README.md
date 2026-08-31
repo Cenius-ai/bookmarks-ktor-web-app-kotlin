@@ -65,7 +65,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Kotlin/Ktor project, delivered as a complete runnable codebase (35 files). Top-level layout: `gradle/`, `src/`. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
+Kotlin/Ktor project, delivered as a complete runnable codebase (24 files). Top-level layout: `gradle/`, `src/`. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
